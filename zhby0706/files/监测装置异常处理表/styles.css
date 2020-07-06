@@ -1,0 +1,40 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1000px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u24287_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1000px;
+  height:750px;
+}
+#u24287 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1000px;
+  height:750px;
+  -webkit-transform:rotate(180deg);
+  -moz-transform:rotate(180deg);
+  -ms-transform:rotate(180deg);
+  transform:rotate(180deg);
+}
+#u24288 {
+  position:absolute;
+  left:2px;
+  top:367px;
+  width:996px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
